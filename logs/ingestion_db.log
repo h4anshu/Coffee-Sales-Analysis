@@ -1,0 +1,31 @@
+2025-11-01 09:56:18,953 - INFO - Loaded Coffe_sales.csv. Ingesting into db as table "Coffe_sales"
+2025-11-01 09:56:19,146 - DEBUG - Building SSL context
+2025-11-01 09:56:19,176 - DEBUG - Switching to SSL
+2025-11-01 09:56:19,193 - DEBUG - SSL has been enabled
+2025-11-01 09:56:19,193 - DEBUG - Starting authorization phase
+2025-11-01 09:56:19,193 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-11-01 09:56:19,193 - INFO - package: mysql.connector.plugins
+2025-11-01 09:56:19,193 - INFO - plugin_name: caching_sha2_password
+2025-11-01 09:56:19,193 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-11-01 09:56:19,194 - DEBUG - Exchanging further packets
+2025-11-01 09:56:19,194 - DEBUG - caching_sha2_password completed succesfully
+2025-11-01 09:56:19,533 - INFO - \u2705 Successfully created/replaced table: Coffe_sales
+2025-11-01 09:56:19,533 - INFO - Ingestion Complete
+2025-11-01 09:56:19,533 - INFO - Total Time Taken: 0.01 minutes
+2025-11-01 09:57:12,278 - WARNING - Data file not found at: data\Coffe_sales.csv
+2025-11-01 09:57:12,279 - INFO - Ingestion Complete
+2025-11-01 09:57:12,279 - INFO - Total Time Taken: 0.00 minutes
+2025-11-01 09:57:56,023 - INFO - Loaded sales.csv. Ingesting into db as table "sales"
+2025-11-01 09:57:56,043 - DEBUG - Building SSL context
+2025-11-01 09:57:56,072 - DEBUG - Switching to SSL
+2025-11-01 09:57:56,079 - DEBUG - SSL has been enabled
+2025-11-01 09:57:56,079 - DEBUG - Starting authorization phase
+2025-11-01 09:57:56,079 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-11-01 09:57:56,079 - INFO - package: mysql.connector.plugins
+2025-11-01 09:57:56,079 - INFO - plugin_name: caching_sha2_password
+2025-11-01 09:57:56,079 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-11-01 09:57:56,080 - DEBUG - Exchanging further packets
+2025-11-01 09:57:56,080 - DEBUG - caching_sha2_password completed succesfully
+2025-11-01 09:57:56,429 - INFO - \u2705 Successfully created/replaced table: sales
+2025-11-01 09:57:56,430 - INFO - Ingestion Complete
+2025-11-01 09:57:56,430 - INFO - Total Time Taken: 0.01 minutes
